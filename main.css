@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+.container {
+    max-width: 100%;
+    text-align: center;
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/944/180/840/black-texture-background-abstract-black-illustration-wallpaper-preview.jpg);
+    color: #fff;
+
+}
+
+#box-form {
+    border: 2px solid aliceblue;
+    height: 400px;
+    border-radius: 14px;
+    background: #ffffff36;
+}
+
+#box-form button {
+    margin-top: 50px;
+    width: 90%;
+}
